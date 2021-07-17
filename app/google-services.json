@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607733089406",
+    "project_id": "rutatomac",
+    "storage_bucket": "rutatomac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607733089406:android:5e3637853482c94fa7042f",
+        "android_client_info": {
+          "package_name": "com.patricio.rutatomac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607733089406-rlb8qf9ssauuddmbtl1v7pvv9nrhtmp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patricio.rutatomac",
+            "certificate_hash": "cab8f043e05bd88d58cb59b60bc6002ebc48dee6"
+          }
+        },
+        {
+          "client_id": "607733089406-od3c17d9360u5idl5ejk3rvgf5bqacpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtmRHvi9W4VoxUAkHRRmro4Bb60PhTCx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607733089406-od3c17d9360u5idl5ejk3rvgf5bqacpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
